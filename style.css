@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right, red, darkred);
+}
+h2{
+    font-size: 30px;
+    color: #FF8000;
+}
+.big{
+    font-size: 30px;
+    color: #FFABFF;
+}
+.large{
+    font-size: 60px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.large.uppercase{
+    color: Cyan;
+}
+h1 span{
+    color: cyan;
+}
