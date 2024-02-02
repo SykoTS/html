@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #fed61f;
+    text-align: center;
+}
+header h1{
+    color: black;
+}
+
+header img{
+    border-radius: 150px;
+    border: 10px solid gray;
+}
